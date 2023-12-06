@@ -1,0 +1,16 @@
+Create new booking
+{'bookingid': 1623, 'booking': {'firstname': 'James', 'lastname': 'Bond', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Breakfast'}}
+New Booking ID: 1623
+Get booking details:
+{'firstname': 'James', 'lastname': 'Bond', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Breakfast'}
+Create new token
+{'token': '6ed1f3f4d7c9349'}
+Token details: 6ed1f3f4d7c9349
+Perform partial update:
+{'firstname': 'Felix', 'lastname': 'Leiter', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Dinner'}
+Perform full update:
+{'firstname': 'Vesper', 'lastname': 'Lynd', 'totalprice': 400, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2024-01-02'}, 'additionalneeds': 'Breakfast, Lunch, Dinner'}
+Delete booking:
+Created
+Check if booking is present after deleting:
+Not Found

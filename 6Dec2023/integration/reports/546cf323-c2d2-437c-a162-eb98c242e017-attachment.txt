@@ -1,0 +1,15 @@
+{'bookingid': 3592, 'booking': {'firstname': 'James', 'lastname': 'Bond', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Breakfast'}}
+{'firstname': 'James', 'lastname': 'Bond', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Breakfast'}
+{'token': 'fd6956bc2e83d7f'}
+{'firstname': 'Felix', 'lastname': 'Leiter', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Dinner'}
+{'token': '580e02c2414b4bd'}
+{'firstname': 'Felix', 'lastname': 'Leiter', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Dinner'}
+{'firstname': 'Felix', 'lastname': 'Leiter', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Dinner'}
+{'token': '18e274668cbd5ef'}
+{'firstname': 'Felix', 'lastname': 'Leiter', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2023-12-27'}, 'additionalneeds': 'Dinner'}
+{'firstname': 'Vesper', 'lastname': 'Lynd', 'totalprice': 400, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2024-01-02'}, 'additionalneeds': 'Breakfast, Lunch, Dinner'}
+{'firstname': 'Vesper', 'lastname': 'Lynd', 'totalprice': 400, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2024-01-02'}, 'additionalneeds': 'Breakfast, Lunch, Dinner'}
+{'token': 'ad60fc6d85c362b'}
+{'firstname': 'Felix', 'lastname': 'Leiter', 'totalprice': 400, 'depositpaid': True, 'bookingdates': {'checkin': '2023-12-22', 'checkout': '2024-01-02'}, 'additionalneeds': 'Dinner'}
+Created
+Not Found
